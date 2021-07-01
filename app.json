@@ -17,15 +17,15 @@
     },
     "TOKEN": {
       "description": "Your bot token, as a string.",
-      "value": ""
+      "value": "1777880521:AAG6Y7m7FhdZUSkLjx6KULTDcZd0e8KacjY"
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "719195224"
+      "value": "1652581660"
     },
     "OWNER_USERNAME": {
       "description": "Your username",
-      "value": "xditya"
+      "value": "ALBUS_SERIOUS"
     },
   
     "URL": {
